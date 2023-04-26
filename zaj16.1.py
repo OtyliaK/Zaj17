@@ -49,3 +49,4 @@ if haslo in slownik3.keys():
     print("To słowo po angielsku brzmi:", definicja)
 else:
     print(slownik4)
+slowa 
