@@ -1,5 +1,5 @@
 #Zadanie na projekt z Pythona - (spoiler: źle zrobione)
-
+cokolwiek 
 #Napisz funkcję, która pobiera słowo w języku polskim
 # a zwraca to samo słowo w dowolnym innym języku.
 # Jeśli podane słowo nie jest znane programowi,
