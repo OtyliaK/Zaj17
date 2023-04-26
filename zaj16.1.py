@@ -1,4 +1,5 @@
 #Zadanie na projekt z Pythona - (spoiler: źle zrobione)
+#nowa gałąź zmiana
 
 #Napisz funkcję, która pobiera słowo w języku polskim
 # a zwraca to samo słowo w dowolnym innym języku.
